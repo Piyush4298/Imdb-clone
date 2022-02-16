@@ -1,3 +1,17 @@
+# About the website
+Tech Stack : Html, Tailwind.css, React.js
+
+- Used tmdb api to collect and display information of trending movies.
+- You can add/delete a movie into/from favourite list.
+- In favourites page you can filter movies according to genres, sort them according to rating or popularity, search with names.
+- Also pagination is implemented.
+
+## Have a look at application:
+
+Follow the link to my [Imdb Clone](https://hopeful-bartik-601c20.netlify.app)
+
+---------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
